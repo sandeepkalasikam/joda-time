@@ -1,7 +1,7 @@
 Joda-Time
 ---------
 
-Joda-Time provides a quality replacement for the Java date and time classes.
+Joda-Time provides a quality replacement for the Java date and time classess.
 The design allows for multiple calendar systems, while still providing a simple API.
 The 'default' calendar is the ISO8601 standard which is used by XML.
 The Gregorian, Julian, Buddhist, Coptic, Ethiopic and Islamic systems are also included.
